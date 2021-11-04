@@ -9,7 +9,6 @@
 
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimanyu911&title_color=000000&text_color=A245B4&hide=contribs" alt="Abhimanyu's GitHub stats"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhimanyu911&hide=Rebol&langs_count=6&card_width=270&layout=compact"/>
 </div>
 
 
