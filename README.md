@@ -1,7 +1,7 @@
 <h1> Hello, I’m Abhimanyu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
 - 🤠 I have a BTech in Electronics and Communication Engineering, with a minor in Data Science, and am looking for exciting research/project collaborations in the field of Machine Learning
-- 🥼 Research @ AI4Astro, CMINDS, IIT Bombay.
+- 🥼 Research @ AI4Astro
 - 🥼 Ex-Research Intern in Deep Learning @ Indian Institute of Technology, Goa.
 - 🥼 Ex-Research Intern in Deep Learning @ Manipal Institute of Technology, Manipal.
 - 💸 Ex-ML Engineer at [Searce](https://www.searce.com/) 
