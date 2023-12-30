@@ -10,7 +10,10 @@
  
 ![snakie gif](https://github.com/abhimanyu911/abhimanyu911/blob/output/github-contribution-grid-snake.gif)
 
+
+<!--
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimanyu911&title_color=000000&text_color=A245B4&hide=contribs" alt="Abhimanyu's GitHub stats"/>
+-->
 
 
 
