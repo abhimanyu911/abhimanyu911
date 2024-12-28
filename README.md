@@ -3,9 +3,9 @@
 - 🤠 I have a BTech in Electronics and Communication Engineering, with a minor in Data Science, and am looking for exciting research/project collaborations in the field of Machine Learning
 - 🤠 I am a current MS ECE student at UCLA
 - 🥼 Current Research Assitant at the [QLMC](https://light-matter.seas.ucla.edu/) lab - I work at the intersection of laser physics and Machine Learning !
-- 🥼 Ex-Research @ AI4Astro
-- 🥼 Ex-Research Intern in Deep Learning @ Indian Institute of Technology, Goa.
-- 🥼 Ex-Research Intern in Deep Learning @ Manipal Institute of Technology, Manipal.
+- 🥼 Ex-Research Intern @ University of Zielona Góra, Poland.
+- 🥼 Ex-Research Intern @ Indian Institute of Technology, Goa, India.
+- 🥼 Ex-Research Intern @ Manipal Institute of Technology, Manipal, India.
 - 💸 Ex-ML Engineer at [Searce](https://www.searce.com/) 
 - ✨ My interests lie in Signal Processing and Machine Learning
 - 📫 You can reach me here: <a href = "mailto:abhimanyuborthakur@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/abhimanyu-borthakur-2a573b192/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
