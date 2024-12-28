@@ -2,7 +2,7 @@
 
 - 🤠 I have a BTech in Electronics and Communication Engineering, with a minor in Data Science, and am looking for exciting research/project collaborations in the field of Machine Learning
 - 🤠 I am a current MS ECE student at UCLA
-- 🥼 Current Research Assitant at the [QLMC](https://light-matter.seas.ucla.edu/) lab - I work at the intersection of laser physics and Machine Learning !
+- 🥼 Current Research Assitant at the [QLMC](https://light-matter.seas.ucla.edu/) lab - I work at the intersection of Laser Physics and Machine Learning !
 - 🥼 Ex-Research Intern @ University of Zielona Góra, Poland.
 - 🥼 Ex-Research Intern @ Indian Institute of Technology, Goa, India.
 - 🥼 Ex-Research Intern @ Manipal Institute of Technology, Manipal, India.
